@@ -1,0 +1,99 @@
+    1  ipdadr
+    2  ipaddr
+    3  ip addr
+    4  ifconfig
+    5  sudo apt install net-tool
+    6  sudo apt install net-tools
+    7  ls
+    8  cd ~
+    9  ls
+   10  cd /
+   11  ls
+   12  su
+   13  sudo passwd root
+   14  su
+   15  ls
+   16  cd /home/
+   17  ls
+   18  cd kunal/
+   19  ls
+   20  whoami
+   21  cat /etc/passwd
+   22  grep kunal /etc/passwd
+   23  ls
+   24  mkdir mazedar
+   25  ls
+   26  cd mazedar/
+   27  ls
+   28  mkdir devops_git
+   29  cd devops_git/
+   30  ls
+   31  touch commands.txt
+   32  ls
+   33  git init
+   34  sudo apt install git
+   35  git init
+   36  git status
+   37  git add commands.txt 
+   38  git staus
+   39  git status
+   40  git commit -m "adding commands"
+   41  git status
+   42  git commit -m "adding commands"
+   43  git config --global user.email "kunalnaikodi@gmail.com"
+   44  git config -global user.name "kunalnaikodi"
+   45  git config --global user.name "kunalnaikodi"
+   46  git commit -m "adding commands"
+   47  git status
+   48  git log
+   49  git status
+   50  ls
+   51  rm commands.txt 
+   52  ls
+   53  git status
+   54  git restore commands.txt 
+   55  ls
+   56  rm commands.txt 
+   57  git staus
+   58  git status
+   59  git rm commands.txt 
+   60  ls
+   61  git status
+   62  git restore -- staged commands.txt
+   63  git restore --staged commands.txt
+   64  ls
+   65  git status
+   66  git restore commands.txt 
+   67  ls
+   68  git log --online
+   69  git log --oneline
+   70  git log
+   71  git stauts
+   72  git status
+   73  vi commands.txt 
+   74  vim commands.txt 
+   75  sudo apt install vim
+   76  git stauts
+   77  git status
+   78  vim commands.txt 
+   79  git status
+   80  git add commands.txt 
+   81  ls
+   82  git status
+   83  git commit -m "adding few more commands"
+   84  ls
+   85  git log
+   86  git log --oneline 
+   87  git log --oneline --pretty
+   88  history
+   89  sudo apt install openssh-server -y
+   90  sudo systemctl status ssh
+   91  sudo systemctl start ssh
+   92  sudo systemctl status ssh
+   93  sudo systemctl enable ssh
+   94  sudo ufw allow ssh
+   95  sudo ufw enable && sudo ufw reload
+   96  history
+   97  history > History.txt
+   98  ls
+   99  history > History.txt

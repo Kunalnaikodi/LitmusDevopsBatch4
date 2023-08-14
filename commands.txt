@@ -4,3 +4,6 @@ git add
 git log
 git commit -m
 git rm --cached
+git log --online --pretty
+git config --global user.name"_______"
+git config --global user.email"________"
