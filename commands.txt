@@ -7,3 +7,4 @@ git rm --cached
 git log --online --pretty
 git config --global user.name"_______"
 git config --global user.email"________"
+git checkout -b 
