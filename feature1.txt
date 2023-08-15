@@ -1,5 +1,3 @@
 this is fetature 
 
 add more function1
-
-this is gadbad feture
