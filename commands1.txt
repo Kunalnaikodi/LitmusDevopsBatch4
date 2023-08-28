@@ -1,3 +1,4 @@
+
 git init
 git status
 git remote -v
@@ -7,3 +8,7 @@ git push
 this is my whole setup of ipad
 Git clome
 git remote -v
+
+GIt push
+git pull
+git fecth
