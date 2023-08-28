@@ -5,3 +5,5 @@ git pull
 git fetch
 git push
 this is my whole setup of ipad
+Git clome
+git remote -v
